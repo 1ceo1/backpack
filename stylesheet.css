@@ -1,0 +1,61 @@
+div {
+
+	
+	
+	
+	text-align: center;
+	
+}
+
+#p1 {
+	display: inline;
+	position: relative;
+	margin-left: 25%;
+}
+
+#p2 {
+	display: inline;
+	position: relative;
+	margin-left: 10%;
+}
+
+#p3 {
+	display: inline;
+	position: relative;
+	margin-left: 10px;
+}
+
+#div {
+	display: inline;
+	position: relative;
+	margin-left: 70px;
+	margin-top: 10px;
+}
+
+#title {
+	display: inline;
+	position: relative;
+	margin-left: 50px;
+}
+
+#body {
+	display: inline;
+	position: relative;
+	margin-left: 25px;
+}
+
+#head {
+	display: inline;
+	position: relative;
+	margin-left: 65px;
+}
+
+#html {
+	width: 50px;
+	position: relative;
+	margin-left: 93px;
+}
+
+.space {
+	opacity: 0;
+}
