@@ -1,10 +1,10 @@
 div {
-
-	
-	
-	
 	text-align: center;
-	
+}
+
+table {
+	style="width:50%";
+
 }
 
 #p1 {
@@ -29,7 +29,19 @@ div {
 	position: relative;
 	margin-left: 45%;
 }
+#p5{
+		display: inline;
+	position: relative;
+	margin-left: 150%;
 
+}
+#p6{
+		display: inline;
+	position: relative;
+	text-align: left;
+	margin-left: 160px;
+	font-size: 100%;
+}
 #div {
 	display: inline;
 	position: relative;
