@@ -16,7 +16,7 @@ div {
 #p2 {
 	display: inline;
 	position: relative;
-	margin-left: 11%;
+	margin-left: 10%;
 }
 
 #p3 {
@@ -45,7 +45,7 @@ div {
 }
 #p7{	display: inline;
 	position: relative;
-	margin-left: 24%;
+	margin-left: 24.2%;
 }
 #p8{
 	width:30%;
@@ -83,7 +83,7 @@ text-align: justify;
 	position: relative;
 	margin-left: 93px;
             background: url(background20.jpg) 
-}
+        }
 body {
 	background: url(background20.jpg) 
 }
