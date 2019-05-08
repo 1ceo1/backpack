@@ -16,7 +16,7 @@ div {
 #p2 {
 	display: inline;
 	position: relative;
-	margin-left: 10%;
+	margin-left: 4%;
 }
 
 #p3 {
@@ -82,12 +82,22 @@ text-align: justify;
 	width: 50px;
 	position: relative;
 	margin-left: 93px;
-            background: url(background20.jpg) 
+           
         }
 body {
-	background: url(background20.jpg) 
+	  background-color: lightgreen;
+
+}
+
+
+.grow:hover {
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
 }
 
 .space {
 	opacity: 0;
 }
+
+
