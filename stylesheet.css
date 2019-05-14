@@ -82,13 +82,15 @@ text-align: justify;
 	width: 50px;
 	position: relative;
 	margin-left: 93px;
+           }
            
+        html{
+        	background-image: url(background20.jpg);
+        	background-repeat: no-repeat;
+        	background-attachment: fixed;
+        	background-size: 100%
+
         }
-body {
-	  background-color: lightgreen;
-
-}
-
 
 .grow:hover {
   -webkit-transform: scale(1.2);
